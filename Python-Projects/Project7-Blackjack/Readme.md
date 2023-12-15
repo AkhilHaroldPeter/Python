@@ -3,4 +3,4 @@ The goal is to assemble a hand with a total value surpassing that of the dealer'
 
 ### The code for generating cards as ASCII characters was borrowed from the following source: https://copyprogramming.com/howto/ascii-fication-of-playing-cards.
 
-### To view the project please click here : https://replit.com/@akhilpeter/Project7-Blackjack?v=1
+### To play blackjack, please click here : https://replit.com/@akhilpeter/Project7-Blackjack?v=1
