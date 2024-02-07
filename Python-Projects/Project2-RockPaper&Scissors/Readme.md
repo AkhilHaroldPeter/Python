@@ -42,6 +42,11 @@ This project relies on the following Python packages:
 - `text2art`:It is a tool utilized for transforming text into ASCII art. If the package is not already installed, you can install it by executing the following command: `pip install text2art`
 - `random`: random module is in the python standard library. Used to give random choice from a given list of options.
 
+## Installation
+
+To install the required packages, use the following `pip` commands:
+
+```pip install text2art```
 
 ## Python Installation
 
