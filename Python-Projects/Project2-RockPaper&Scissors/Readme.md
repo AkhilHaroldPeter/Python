@@ -68,3 +68,12 @@ To run this project, you need to have Python installed on your system. If you ha
 
 ## Usage
 This project serves as a demonstration of proficiency in using the random module and if statements in Python. Additionally, it utilizes an external package called text2art to convert input text into ASCII art.
+
+
+## After you have installed python you can run the code by following the below steps:
+- Clone the repository to your local machine: https://github.com/AkhilHaroldPeter/Python.git
+- Navigate to the directory containing the RockPapaer&Scissors game files.
+- Install the required packages using pip.
+- Run the RockPapaer&Scissors script.
+- Follow the prompts to play the game and choose your move (Rock, Paper, or Scissors).
+#### Alternatively, you can download the repository as a zip file, unzip it, and then use it on your local machine.
