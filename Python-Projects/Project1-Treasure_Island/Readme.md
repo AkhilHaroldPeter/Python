@@ -40,6 +40,8 @@ To play the Treasure Island game, simply clone or download the repository to you
 
 This project does not require any packages to be installed
 
+---
+
 ## Python Installation
 
 To run this project, you need to have Python installed on your system. If you haven't installed Python yet, follow these steps:
