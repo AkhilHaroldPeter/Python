@@ -85,3 +85,12 @@ To run this project, you need to have Python installed on your system. If you ha
 - Execute the code and make selections from the options provided to enjoy the game experience.
 #### Alternatively, you can download the repository as a zip file, unzip it, and then use it on your local machine.
 
+## Key Concepts
+
+- Word Selection: Implemented mechanisms to select words for the player to guess, ensuring a diverse and engaging gameplay experience.
+- User Input Handling: Utilized input handling techniques to process the player's guesses and interactions with the game interface.
+- String Manipulation: Employed string manipulation methods to display the hidden word, reveal correctly guessed letters, and update the game status.
+- Game Logic: Implemented algorithms to determine whether the player's guesses are correct or incorrect, and to track the player's progress in guessing the word.
+- Graphics Rendering: Utilized ASCII art or graphical representations to enhance the visual appeal of the game interface and provide feedback to the player.
+
+
