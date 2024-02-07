@@ -1,7 +1,7 @@
-# Rock Paper Scissors
+# Rock, Paper, Scissors Game
 
 ### To play RockPaperScissors, please click here : https://replit.com/@akhilpeter/Project2-RockPaperandScissors?v=1
-# Rock, Paper, Scissors Game
+
 
 ## Description
 
