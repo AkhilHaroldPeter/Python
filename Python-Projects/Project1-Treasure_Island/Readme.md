@@ -71,7 +71,7 @@ This project serves as a demonstration of proficiency in the basics of Python an
 - Clone the repository to your local machine: https://github.com/AkhilHaroldPeter/Python.git (If this is your first time doing this, please follow through the following documentation: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 - Navigate to the directory containing the Treasure island game files.
 - Install the required packages using pip.
-- Run the Treasure island script.
+- Run the `Project1-Treasure_Island.py` script.
 - Follow the prompts to play the game and guess correct route.
 #### Alternatively, you can download the repository as a zip file, unzip it, and then use it on your local machine.
 
