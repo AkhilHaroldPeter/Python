@@ -71,15 +71,6 @@ To run this project, you need to have Python installed on your system. If you ha
 `sudo apt update`
 `sudo apt install python3`
 
-## Key Concepts
-
-- User Input Handling: Implemented mechanisms to handle user input for selecting moves (Rock, Paper, or Scissors), ensuring smooth interaction with the game.
-- Random Selection: Utilized the `random` module to generate random selections for the computer opponent, adding unpredictability to the game.
-- Conditional Statements: Employed conditional statements to determine the outcome of each round based on the player's and computer's selections, facilitating game logic.
-- Looping Constructs: Utilized looping constructs to allow for multiple rounds of gameplay, enhancing the overall gaming experience.
-- Score Tracking: Implemented score tracking mechanisms to keep track of the player's and computer's wins, losses, and ties throughout the game.
-
-
 
 ## After you have installed python you can run the code by following the below steps:
 - Clone the repository to your local machine: https://github.com/AkhilHaroldPeter/Python.git (If this is your first time doing this, please follow through the following documentation: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
@@ -88,3 +79,12 @@ To run this project, you need to have Python installed on your system. If you ha
 - Run the `Project2-RockPaper&Scissors.py` script.
 - Follow the prompts to play the game and choose your move (Rock, Paper, or Scissors).
 #### Alternatively, you can download the repository as a zip file, unzip it, and then use it on your local machine.
+
+
+## Key Concepts
+
+- User Input Handling: Implemented mechanisms to handle user input for selecting moves (Rock, Paper, or Scissors), ensuring smooth interaction with the game.
+- Random Selection: Utilized the `random` module to generate random selections for the computer opponent, adding unpredictability to the game.
+- Conditional Statements: Employed conditional statements to determine the outcome of each round based on the player's and computer's selections, facilitating game logic.
+- Looping Constructs: Utilized looping constructs to allow for multiple rounds of gameplay, enhancing the overall gaming experience.
+- Score Tracking: Implemented score tracking mechanisms to keep track of the player's and computer's wins, losses, and ties throughout the game.
