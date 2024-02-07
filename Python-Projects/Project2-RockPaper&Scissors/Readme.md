@@ -33,3 +33,6 @@ To run this project, you need to have Python installed on your system. If you ha
 2. If Python is not installed, you can install it using your distribution's package manager. For example, on Ubuntu, you can use `apt`:
 `sudo apt update`
 `sudo apt install python3`
+
+## Usage
+This project serves as a demonstration of proficiency in using the random module and if statements in Python. Additionally, it utilizes an external package called text2art to convert input text into ASCII art.
