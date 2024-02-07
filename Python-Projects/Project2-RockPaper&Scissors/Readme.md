@@ -1,6 +1,38 @@
 # Rock Paper Scissors
 
 ### To play RockPaperScissors, please click here : https://replit.com/@akhilpeter/Project2-RockPaperandScissors?v=1
+# Rock, Paper, Scissors Game
+
+## Description
+
+Rock, Paper, Scissors is a classic hand game usually played between two people. The game has three possible outcomes: a tie, or a win for either player. Each player simultaneously forms one of three shapes with an outstretched hand. The possible shapes are:
+
+- Rock: represented by a closed fist.
+- Paper: represented by an open hand.
+- Scissors: represented by a fist with the index and middle fingers extended, forming a V.
+
+The winner is determined based on the chosen shapes according to the following rules:
+
+- Rock crushes Scissors (Rock wins against Scissors).
+- Scissors cuts Paper (Scissors win against Paper).
+- Paper covers Rock (Paper wins against Rock).
+- If both players choose the same shape, the game is a tie.
+
+## Rules for the Python Project
+
+1. **Player Input**: The player will choose one of the three options: Rock, Paper, or Scissors. This can be done either by typing the choice or by selecting from a menu.
+
+2. **Computer Input**: The computer will randomly select one of the three options: Rock, Paper, or Scissors.
+
+3. **Comparison**: The choices made by the player and the computer will be compared to determine the winner based on the rules mentioned above.
+
+4. **Display Result**: The result of the game (win, lose, or tie) will be displayed to the player.
+
+5. **Repeat or Quit**: After displaying the result, the player should have the option to play again or quit the game.
+
+By implementing these rules, players can enjoy the classic Rock, Paper, Scissors game in a Python project, providing an interactive and entertaining experience.
+
+
 
 
 ## Dependencies
