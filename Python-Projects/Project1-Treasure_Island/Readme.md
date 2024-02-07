@@ -69,7 +69,7 @@ This project serves as a demonstration of proficiency in the basics of Python an
 
 ## After you have installed python you can run the code by following the below steps:
 - Clone the repository to your local machine: https://github.com/AkhilHaroldPeter/Python.git
-- Navigate to the directory containing the Hangman game files.
+- Navigate to the directory containing the Treasure island game files.
 - Install the required packages using pip.
 - Run the Treasure island script.
 - Follow the prompts to play the game and guess correct route.
