@@ -62,13 +62,14 @@ To run this project, you need to have Python installed on your system. If you ha
 #### Alternatively, you can download the repository as a zip file, unzip it, and then use it on your local machine.
 
 
-## Usage : 
-To generate a password, follow these steps:
+## Key Concepts
 
-- Run the Python script password_generator.py.
-- Follow the prompts to enter the desired password length and select the character sets to include.
-- After providing the required information, the script will generate and display the password.
-- Use the generated password for your desired application or purpose.
+- Random Number Generation: Utilized the `random` module to generate random numbers, ensuring the unpredictability of generated passwords.
+- String Manipulation: Employed string manipulation techniques to construct passwords by concatenating characters and symbols.
+- User Input Handling: Implemented mechanisms to handle user input for specifying password length and selecting character sets, ensuring user-friendly interaction.
+- Secure Password Generation: Implemented methods to ensure the generated passwords meet security standards by incorporating a mix of lowercase letters, uppercase letters, digits, and special characters.
+- Dependency Management: Utilized the `pip` package manager to install and manage external dependencies such as `text2art` for ASCII art generation, enhancing the user experience.
+
 
 
 ## Disclaimer
