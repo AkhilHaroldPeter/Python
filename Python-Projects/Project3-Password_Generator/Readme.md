@@ -29,6 +29,8 @@ To use the Password Generator, follow these steps:
 
 1. **Clone the Repository**: Clone or download the repository to your local machine.
 
+---
+
 ## Python Installation
 
 To run this project, you need to have Python installed on your system. If you haven't installed Python yet, follow these steps:
