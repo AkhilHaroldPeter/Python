@@ -58,5 +58,14 @@ To run this project, you need to have Python installed on your system. If you ha
 #### Alternatively, you can download the repository as a zip file, unzip it, and then use it on your local machine.
 
 
+## Key Concepts
+
+- Encryption Techniques: Implemented classical encryption methods, including the Caesar cipher and the Vigenère cipher, to encode and decode messages.
+- Substitution Cipher: Utilized substitution techniques to replace plaintext characters with ciphertext characters based on specific rules and keys.
+- Key Management: Managed encryption and decryption keys for the Vigenère cipher to ensure secure communication and message confidentiality.
+- Modular Design: Designed the codebase with modularity in mind to allow for easy integration of additional encryption algorithms or enhancements.
+- Error Handling: Implemented error handling mechanisms to gracefully handle invalid inputs, edge cases, and exceptions during encryption and decryption processes.
+
+
 ### Disclaimer
 This Cipher project is provided for educational purposes only. While encryption techniques such as the Caesar and Vigenère ciphers offer basic data security, they are not suitable for use in sensitive or production environments. Users should exercise caution and use modern encryption methods for securing valuable data.
