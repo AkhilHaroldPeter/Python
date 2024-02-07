@@ -54,6 +54,8 @@ To install the required packages, use the following `pip` commands:
 ```pip install text2art```
 ```pip install pandas```
 
+---
+
 ## Python Installation
 
 To run this project, you need to have Python installed on your system. If you haven't installed Python yet, follow these steps:
