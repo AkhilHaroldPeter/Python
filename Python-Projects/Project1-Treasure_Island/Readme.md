@@ -1,8 +1,40 @@
-# Treasure Island
+# Treasure Island Game
 
 ### To play Treasure Island, please click here : https://replit.com/@akhilpeter/Project1-TreasureIsland?v=1
 
 Brief project description goes here.
+
+
+## Description
+
+Treasure Island is an adventure game where players navigate through different routes in search of hidden treasure. The game involves making choices at various points along the journey, with some routes leading closer to the treasure while others may lead to danger or dead ends.
+
+## Gameplay
+
+- **Starting Point**: The game begins with the player landing on Treasure Island. From here, the player must make a series of choices to progress further into the island.
+  
+- **Choices**: At each stage of the game, the player will encounter different scenarios and must make decisions to proceed. These decisions may involve choosing between different routes, solving puzzles, or overcoming obstacles.
+
+- **Chances**: The outcome of each choice depends on chance and luck. Some routes may lead the player directly to the treasure, while others may result in failure or setbacks. 
+
+- **If Statements**: The game utilizes if statements to evaluate the player's choices and determine the consequences. Depending on the outcome of each choice, the player may advance further or face obstacles that impede their progress.
+
+- **Finding the Treasure**: The ultimate goal of the game is to successfully navigate through the island and find the hidden treasure. However, reaching the treasure requires making the right choices and taking calculated risks along the way.
+
+## How to Play
+
+1. **Starting the Game**: Launch the game and begin the adventure by following the prompts and making choices at each stage.
+
+2. **Making Choices**: Read the descriptions carefully and select the option that you believe will lead you closer to the treasure.
+
+3. **Consequences**: Based on your choices, the game will unfold different scenarios, leading to either success or failure.
+
+4. **Reaching the Treasure**: Use your intuition, logic, and a bit of luck to navigate through the island and ultimately uncover the treasure.
+
+## Installation
+
+To play the Treasure Island game, simply clone or download the repository to your local machine and run the main Python script using a Python interpreter.
+
 
 ## Dependencies
 
