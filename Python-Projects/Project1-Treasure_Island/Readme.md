@@ -31,3 +31,7 @@ To run this project, you need to have Python installed on your system. If you ha
 sudo apt update
 sudo apt install python3
 
+
+## Usage
+This project serves as a demonstration of proficiency in the basics of Python and if statements. You can explore the code to understand how Python is used to implement basic programming concepts and conditional statements.
+
