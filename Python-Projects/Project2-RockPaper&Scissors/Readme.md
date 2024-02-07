@@ -20,7 +20,7 @@ The winner is determined based on the chosen shapes according to the following r
 
 ## Rules for the Python Project
 
-1. **Player Input**: The player will choose one of the three options: Rock, Paper, or Scissors. This can be done either by typing the choice or by selecting from a menu.
+1. **Player Input**: The player will choose one of the three options: Rock, Paper, or Scissors. This can be done  by typing the choice.
 
 2. **Computer Input**: The computer will randomly select one of the three options: Rock, Paper, or Scissors.
 
