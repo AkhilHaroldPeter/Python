@@ -16,6 +16,13 @@ This project relies on the following Python packages:
 - `text2art`: Used to create ASCII art for visual appeal.
 - `sys`: Used for interacting with the system environment.
 
+## Package Installation
+
+To install the required packages, use the following `pip` commands:
+```pip install text2art```
+
+
+
 ## Installation
 
 To use the Password Generator, follow these steps:
