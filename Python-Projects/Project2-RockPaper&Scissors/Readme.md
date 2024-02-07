@@ -71,8 +71,14 @@ To run this project, you need to have Python installed on your system. If you ha
 `sudo apt update`
 `sudo apt install python3`
 
-## Usage
-This project serves as a demonstration of proficiency in using the random module and if statements in Python. Additionally, it utilizes an external package called text2art to convert input text into ASCII art.
+## Key Concepts
+
+- User Input Handling: Implemented mechanisms to handle user input for selecting moves (Rock, Paper, or Scissors), ensuring smooth interaction with the game.
+- Random Selection: Utilized the `random` module to generate random selections for the computer opponent, adding unpredictability to the game.
+- Conditional Statements: Employed conditional statements to determine the outcome of each round based on the player's and computer's selections, facilitating game logic.
+- Looping Constructs: Utilized looping constructs to allow for multiple rounds of gameplay, enhancing the overall gaming experience.
+- Score Tracking: Implemented score tracking mechanisms to keep track of the player's and computer's wins, losses, and ties throughout the game.
+
 
 
 ## After you have installed python you can run the code by following the below steps:
