@@ -21,5 +21,13 @@ To run this project, you need to have Python installed on your system. If you ha
 ### macOS
 
 1. macOS usually comes with Python pre-installed. To check if Python is installed, open the Terminal and type `python3 --version`. If Python is installed, it will display the version number.
-2. If Python is not installed, you can install it using [Homebrew](https://brew.sh/). Open Terminal and run the following command:
+2. If Python is not installed, you can install it using [Homebrew](https://brew.sh/). Open Terminal and run the following command: brew install python@3.9
+
+
+### Linux
+
+1. Python is often installed by default on Linux systems. To check if Python is installed, open a terminal and type `python3 --version`. If Python is installed, it will display the version number.
+2. If Python is not installed, you can install it using your distribution's package manager. For example, on Ubuntu, you can use `apt`:
+sudo apt update
+sudo apt install python3
 
