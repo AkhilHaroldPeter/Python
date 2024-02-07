@@ -79,9 +79,9 @@ To run this project, you need to have Python installed on your system. If you ha
 
 ## After you have installed python you can run the code by following the below steps:
 - Clone the repository to your local machine: https://github.com/AkhilHaroldPeter/Python.git (If this is your first time doing this, please follow through the following documentation: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-- Navigate to the directory containing the Password_Generator files.
+- Navigate to the directory containing the Hangman files.
 - Install the required packages using pip.
-- Run the Password_Generator script.
-- Please follow the prompts to utilize the application and select your desired options for generating passwords.
+- Run the 'Project4-Hangman.py' script.
+- Execute the code and make selections from the options provided to enjoy the game experience.
 #### Alternatively, you can download the repository as a zip file, unzip it, and then use it on your local machine.
 
