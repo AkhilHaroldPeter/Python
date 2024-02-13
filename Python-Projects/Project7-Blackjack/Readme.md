@@ -51,7 +51,7 @@ Enjoy playing Blackjack and may the odds be ever in your favor!
 
 ## Installation
 
-To use the Calculator, follow these steps:
+To use Blackjack, follow these steps:
 
 1. **Clone the Repository**: Clone or download the repository to your local machine.
 
