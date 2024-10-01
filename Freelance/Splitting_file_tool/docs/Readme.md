@@ -85,7 +85,7 @@ After running the script, you will find the split files in the output_files dire
 For demonstration, I have placed sample files named  ```sample_data.csv``` in the ```input_files``` directory. After running the script, you will find the split output files in the ```output_files``` directory.
 
 In this example, the tool generates a total of 20 output files based on the specified row limit: 10 files in CSV format and 10 files in Excel format. Each of these output files will contain the designated number of rows as specified in the configuration file.
-Note : the number might change based on row_limit/max_row provided
+Note : the number of files might change based on row_limit/max_row provided
 
 ## Logging
 The tool generates logs that can help you track the processing of files. The log files will be saved in the ```LOGS``` directory with the format ```YYYY-MM-DD-HH-MM-SS.logs```.
