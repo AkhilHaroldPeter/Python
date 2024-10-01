@@ -50,7 +50,6 @@ splitting_file_tool/
 Supported File Types
 Place your input files in the ```input_files directory```. The tool supports:
 * CSV files (e.g., ```sample_data.csv```)
-* Excel files (e.g., ```sample_data.xlsx```)
 
 ### File Names
 You can use any valid file names, but it's helpful to keep them descriptive.
